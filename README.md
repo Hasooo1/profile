@@ -8,5 +8,5 @@
 # Me Certifications
 
 - eJPT
-> About The Certification : https://elearnsecurity.com/product/ejpt-certification/ 
+  - About The Certification : https://elearnsecurity.com/product/ejpt-certification/ 
 
